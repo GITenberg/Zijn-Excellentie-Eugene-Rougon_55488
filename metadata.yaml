@@ -1,0 +1,35 @@
+_repo: Zijn-Excellentie-Eugene-Rougon_55488
+_version: 0.0.1
+alternative_title: Son Excellence Eugène Rougon. Dutch
+contributor:
+  translator:
+    agent_name: Schwencke, J. J.
+    alias: Schwencke, J.J.
+    gutenberg_agent_id: '47629'
+    url: http://www.gutenberg.org/2009/agents/47629
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2017-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55488'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Second Empire, 1852-1870 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Zijn Excellentie Eugène Rougon
+url: http://www.gutenberg.org/ebooks/55488
