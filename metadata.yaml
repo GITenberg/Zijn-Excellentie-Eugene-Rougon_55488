@@ -1,5 +1,5 @@
 _repo: Zijn-Excellentie-Eugene-Rougon_55488
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Son Excellence Eugène Rougon. Dutch
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Schwencke, J.J.
     gutenberg_agent_id: '47629'
     url: http://www.gutenberg.org/2009/agents/47629
+covers:
+- cover_type: archival
+  image_path: 55488-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -19,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55488#Zijn-Excellentie-Eugene-Rougon
 gutenberg_issued: '2017-09-05'
 gutenberg_type: Text
 identifiers:
